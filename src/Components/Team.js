@@ -7,7 +7,7 @@ const Team = () => {
     return(
         <div>
             <h1 className='team-head'>Triumphant</h1>
-            <video src={Video} controls='controls' width='30%' height='15%' className='video' />
+            <video src={Video} controls='controls' width='50%' height='15%' className='video' />
             
         </div>
     )
