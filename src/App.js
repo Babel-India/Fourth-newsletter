@@ -8,6 +8,7 @@ import Video from "./Components/Video";
 import Vaccination from './Components/Vaccination';
 import Events from './Components/eventWinners';
 import Games from "./Components/Games";
+import Insights from "./Components/Insights"
 import Team from "./Components/Team";
 import Poem from "./Components/Poem";
 
@@ -21,6 +22,7 @@ function App() {
       <Video />
       <Vaccination />
       <BSTC />
+      <Insights />
       <Poem />
       <Games />
     </div>

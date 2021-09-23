@@ -76,3 +76,13 @@
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+  .poem-line{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Scheherazade New', serif;
+    font-weight: 520;
+    font-size: larger;
+    line-height: 2;
+  }
