@@ -25,6 +25,7 @@ function App() {
       <Insights />
       <Poem />
       <Games />
+    <Team />
     </div>
   );
 }
