@@ -9,7 +9,7 @@ const BSTC = () => {
             <Container>
                <h1 className='bstc-name'>August</h1>
 
-               <table>
+               <table className="bstc-table">
                    <tr>
                        <th>Name</th>
                        <th>Marks</th>
