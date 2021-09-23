@@ -10,7 +10,7 @@ function Video(){
             <Container>
                 <Row className='video'>
                     <Col>
-                    <video  src={video1} controls='controls' width=87%' height='85%' autoPlay='false' />
+                    <video  src={video1} controls='controls' width='87%' height='85%' autoPlay='false' />
                     </Col>
                 </Row>
             </Container>
