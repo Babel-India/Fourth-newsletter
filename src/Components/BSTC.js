@@ -17,34 +17,26 @@ const BSTC = () => {
                        <th>Marks</th>
                    </tr>
                    <tr>
-                       <th>Rahul Chhoker</th>
+                       <th>Suraj Bisht</th>
                        <th>39</th>
-                       <th>Sushree Ray</th>
-                       <th>39</th>
+                       <th>Tushar Sharma</th>
+                       <th>38</th>
                    </tr>
                    <tr>
-                       <th>Tushar Tikshananshu</th>
-                       <th>37</th>
-                       <th>Siddharth Agarwal</th>
-                       <th>37</th>
-                   </tr>
-                   <tr>
-                       <th>Amit Chauhan</th>
+                       <th>Shashank Singh </th>
                        <th>36</th>
-                       <th>Gyandeep Kumar Kushwaha</th>
-                       <th>36</th>
+                       <th>Amit Mudgal</th>
+                       <th>34</th>
                    </tr>
                    <tr>
-                       <th>Manish Kumar</th>
-                       <th>35</th>
-                       <th>Niket Sharma</th>
-                       <th>35</th>
+                       <th>Rohit Kumar</th>
+                       <th>33</th>
+                       <th>Jitendra Choudhary</th>
+                       <th>32</th>
                    </tr>
                    <tr>
-                       <th>Harshu Saini</th>
-                       <th>34</th>
-                       <th>Rama Murthy</th>
-                       <th>34</th>
+                       <th>Vivek Kumar</th>
+                       <th>32</th>
                    </tr>
 </table>
             </Container>

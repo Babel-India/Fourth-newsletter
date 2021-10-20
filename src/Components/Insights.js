@@ -4,42 +4,16 @@ import './Styles/BSTC.css';
 function Insights(){
     return(
         <div className='poem-head'>
-            <h1 className='video-head'>Behind The Scene (B.T.S) of Popular Games</h1>
+            <h1 className='video-head'>Is gaming really a waste of time?</h1>
             <div className='poem'>
-               <p className='poem-line'>In the era of technology, 
-               we see generations showing keen interest in the gaming world,
-                and we see everyone playing them around us in some way or the other. 
-                Everyone finds it interesting, and all age groups are involved, 
-                but very few notice how much time, effort, patience and perseverance is required 
-                to build such popular and irreplaceable games that are created with utmost precision.
-                These popular games are played on platforms like PlayStation, Xbox, Nintendo Switch.
+               <p className='poem-line'>Nowadays, we often observe that gaming has been labelled as a waste of time and money by many. So there must be some strong reason behind such labelling. Parents of online gamers call it a waste of time for the fact that their kids have become anti-social and more addicted towards digital sources. No one can deny this fact that technology has created certain gaps but solemnly blaming games wouldn't satiate the real reason of such categorisation.
                 </p>
-               <p className='poem-line'>Currently, games like League of Legends, Fortnite, 
-                  Grand Theft Auto, Counter-Strike,etc. are celebrated games and are so popular that live streams
-                  of these games are watched on Youtube by millions. 
-                  These games took three to five years to complete, whereas mobile games like BGMI,
-                  FreeFire, etc. were developed in a few months. The length of development is influenced by a
-                  number of factors, such as genre, scale, development platform and number of assets. 
-                  The development of a complete game usually involves a team of 20–100 individuals with 
-                  various responsibilities, including designers, artists, programmers, and testers. 
-                  The game goes through various phases and is created through collaboration between 
-                  studios who work together religiously and faithfully.
+               <p className='poem-line'>We do notice people mindlessly scrolling their instagram pages, chatting on apps, watching web series and movies and many other activities are done on phone so playing games is also a part of this digital world.Everything has its pros and cons and creating balance between them nullifies the situation.Games started in the arcades as a popular place for both kids and adults to hang out.When these games transitioned into the home, they captured even more attention. Time spent playing games comes with a lot of negativity from those on the outside looking in.Games provides sense of relaxation and entertainment because they’re interactive and it lets the players become part of the story.Games either challenges the mind or dexterity of the player, but even if a game is not listed as an educational type of game, it can teach a variety of skills. It lessens boredom and increases alertness of the mind. There are jobs that pay people to play games and test them for glitches, overall gameplay, story experience, etc.
                 </p>
-               <p className='poem-line'>Mainstream commercial PC and console games are generally
-                developed in phases: first comes pre-production, then pitches, prototypes,
-                and then game design documents are written. If the idea is approved, and the 
-                developer receives funding, then full-scale development begins. Sometimes failing to 
-                provide clear implications of the game's expectations may result in exceeding the allocated budget. 
-                The game industry requires innovations, as publishers cannot profit from the constant release of 
-                repetitive sequels and imitations. Every year new independent development companies open and some 
-                manage to develop hit titles.
+               <p className='poem-line'>It can be concluded that nothing that is done for fun should be considered as a waste of time because it unknowingly teaches us a lot. It is always said that anything done in balance never becomes a hindrance.
+               <br />
+               <p>~Namrata Mishra</p>
                 </p>
-               <p className='poem-line'>No one actually sees Behind The Scenes of the gaming industry and gets an 
-               insight into it and only sees the outlook that is design and graphics, its genre and storyline of the 
-               game and decides on that basis if the game is worth playing and whether to make it go viral or not. 
-               The gaming industry is a huge world in itself, and exploring it is a memorable experience, 
-               and everyone should for once explore it by being a part of it.
-               </p>
             </div>    
         </div>
     )

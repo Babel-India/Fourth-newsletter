@@ -5,7 +5,6 @@ import About from "./Components/About"
 import BSTC from "./Components/BSTC"
 import Contact from "./Components/Contact"
 import Video from "./Components/Video";
-import Vaccination from './Components/Vaccination';
 import Events from './Components/eventWinners';
 import Games from "./Components/Games";
 import Insights from "./Components/Insights"
@@ -20,7 +19,6 @@ function App() {
       <Head />
       <About />
       <Video />
-      <Vaccination />
       <BSTC />
       <Insights />
       <Poem />
